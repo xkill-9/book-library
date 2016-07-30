@@ -1,10 +1,10 @@
 {
-  "name": "react-webpack",
+  "name": "book-library",
   "version": "1.0.0",
-  "description": "Boilerplate for a ReactJS development environment using Webpack and Babel",
+  "description": "Learning Redux",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xkill-9/react-webpack.git"
+    "url": "https://github.com/xkill-9/book-library.git"
   },
   "main": "webpack.config.js",
   "scripts": {
