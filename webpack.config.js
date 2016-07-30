@@ -10,7 +10,8 @@ var config = {
   entry: APP_DIR + '/index.jsx',
 
   resolve: {
-    extensions: ['', '.js', '.jsx']
+    extensions: ['', '.js', '.jsx'],
+    root: APP_DIR,
   },
 
   module: {
